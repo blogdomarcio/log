@@ -1,0 +1,5 @@
+186.202.173.147 - - [14/Jul/2021:18:12:39 +0000] "GET / HTTP/1.1" 301 194 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)"
+186.202.173.147 - - [14/Jul/2021:18:12:39 +0000] "GET / HTTP/1.1" 200 2533 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)"
+62.210.80.33 - - [14/Jul/2021:18:14:48 +0000] "GET /index.php/produto/tshirt/ HTTP/1.0" 404 179 "https://marcioweb.com.br/index.php/produto/tshirt/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"
+62.210.80.33 - - [14/Jul/2021:18:14:48 +0000] "GET / HTTP/1.0" 200 2533 "https://marcioweb.com.br/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"
+194.61.24.78 - - [14/Jul/2021:18:18:05 +0000] "\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cookie: mstshash=Administr" 400 182 "-" "-"
